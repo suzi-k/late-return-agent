@@ -1,0 +1,16 @@
+[
+  {"id": "R-1001", "first_name": "Maria", "last_name": "Lopez", "phone": "+14155550101", "zip": "94107", "tz": "America/Los_Angeles",
+   "vehicle": "Toyota Camry", "branch": "SFO Airport", "daily_rate": 64, "due_in_h": 2, "miles_from_branch": 180, "next_booking_in_h": 4},
+  {"id": "R-1002", "first_name": "James", "last_name": "Chen", "phone": "+13105550102", "zip": "90045", "tz": "America/Los_Angeles",
+   "vehicle": "Ford Explorer", "branch": "LAX Airport", "daily_rate": 89, "due_in_h": 3, "miles_from_branch": 15, "next_booking_in_h": null},
+  {"id": "R-1003", "first_name": "Aisha", "last_name": "Bello", "phone": "+17185550103", "zip": "11430", "tz": "America/New_York",
+   "vehicle": "Tesla Model 3", "branch": "JFK Airport", "daily_rate": 110, "due_in_h": 1, "miles_from_branch": 140, "next_booking_in_h": null},
+  {"id": "R-1004", "first_name": "Tom", "last_name": "Becker", "phone": "+13035550104", "zip": "80249", "tz": "America/Denver",
+   "vehicle": "Jeep Wrangler", "branch": "DEN Airport", "daily_rate": 95, "due_in_h": -2, "miles_from_branch": 60, "next_booking_in_h": 1},
+  {"id": "R-1005", "first_name": "Priya", "last_name": "Nair", "phone": "+12065550105", "zip": "98158", "tz": "America/Los_Angeles",
+   "vehicle": "Honda CR-V", "branch": "SEA Airport", "daily_rate": 72, "due_in_h": 20, "miles_from_branch": 300, "next_booking_in_h": null},
+  {"id": "R-1006", "first_name": "Diego", "last_name": "Ramos", "phone": "+13055550106", "zip": "33126", "tz": "America/New_York",
+   "vehicle": "Nissan Altima", "branch": "MIA Airport", "daily_rate": 58, "due_in_h": 4, "miles_from_branch": 260, "next_booking_in_h": null},
+  {"id": "R-1007", "first_name": "Kenji", "last_name": "Sato", "phone": "+13125550107", "zip": "60614", "tz": "America/Chicago",
+   "vehicle": "Chevrolet Malibu", "branch": "ORD Airport", "daily_rate": 61, "due_in_h": 1, "miles_from_branch": 120, "next_booking_in_h": null}
+]
